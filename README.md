@@ -11,6 +11,11 @@ Welcome to **Global Insights Explorer**! This Streamlit web application allows y
 - **Educational**: Ideal for students, researchers, and anyone curious about global statistics.
 
 ## Screenshots
+![1](https://github.com/VedantKale106/Global_Insights/assets/159442447/04ef5701-0403-4643-beaa-ba37dfa62338)
+![2](https://github.com/VedantKale106/Global_Insights/assets/159442447/f850162d-c7a7-4c21-adf0-91230985a61f)
+![3](https://github.com/VedantKale106/Global_Insights/assets/159442447/e2fea2b9-316d-4909-8eaf-df8c4f10d9bf)
+![4](https://github.com/VedantKale106/Global_Insights/assets/159442447/99b4dfcd-0f1c-43b3-8387-664c71d010e6)
+![5](https://github.com/VedantKale106/Global_Insights/assets/159442447/ced063ae-2de0-410f-a7c6-eed27848d177)
 
 
 
