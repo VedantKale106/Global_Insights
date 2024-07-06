@@ -1,6 +1,6 @@
-# Global Insights Explorer
+# Global Insights 
 
-Welcome to **Global Insights Explorer**! This Streamlit web application allows you to explore and compare key socio-economic and demographic indicators across different countries. Whether you're interested in GDP, life expectancy, CO2 emissions, or more, this app provides insightful visualizations to help you understand global trends.
+Welcome to **[Global Insights]([https://www.linkedin.com/in/VedantKale106/](https://global-insights.onrender.com/)) **! This Streamlit web application allows you to explore and compare key socio-economic and demographic indicators across different countries. Whether you're interested in GDP, life expectancy, CO2 emissions, or more, this app provides insightful visualizations to help you understand global trends.
 
 ## Features
 
